@@ -8,4 +8,4 @@ def is_palindrome(sentence):
     else:
         print("The sentence is not palindromic")
 
-is_palindrome("fuck")
+is_palindrome("noon")
